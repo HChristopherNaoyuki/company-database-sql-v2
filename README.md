@@ -24,7 +24,7 @@ suppliers, and sales tracking with a focus on referential integrity and realisti
 
 ## Project Overview
 
-**Company Database SQL v2** is a SQL-based data model of a mid-size corporation with multiple branches and employees. 
+**Company Database SQL V2** is a SQL-based data model of a mid-size corporation with multiple branches and employees. 
 The project emphasizes realistic business logic with normalized design patterns, foreign key relationships, and integrity constraints. 
 It is suitable for educational purposes, database design exercises, and as a foundation for enterprise applications.
 
