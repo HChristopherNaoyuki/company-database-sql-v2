@@ -10,7 +10,6 @@ suppliers, and sales tracking with a focus on referential integrity and realisti
 
 1. [Project Overview](#project-overview)
 2. [Schema Architecture](#schema-architecture)
-
    * [Entity Relationship Model](#entity-relationship-model)
    * [Tables and Constraints](#tables-and-constraints)
 3. [Installation & Setup](#installation--setup)
